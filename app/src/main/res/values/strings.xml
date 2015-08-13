@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSuma">+</string>
+    <string name="btnDiv">/</string>
+    <string name="btnMulp">*</string>
+    <string name="btnMenos">-</string>
+    <string name="btnAC">AC</string>
+    <string name="btnCE">CE</string>
+    <string name="btnIgual">=</string>
+    <string name="btnUno">1</string>
+    <string name="btnDos">2</string>
+    <string name="btnTres">3</string>
+    <string name="btnCuatro">4</string>
+    <string name="btnCinco">5</string>
+    <string name="btnSeis">6</string>
+    <string name="btnSiete">7</string>
+    <string name="btnOcho">8</string>
+    <string name="btnNueve">9</string>
+    <string name="btnCero">0</string>
+    <string name="tamanoBtn">30dp</string>
+
+</resources>
