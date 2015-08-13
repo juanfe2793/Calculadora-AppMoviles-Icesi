@@ -50,7 +50,30 @@ public class MainActivity extends Activity implements OnClickListener
         bAC = (Button) findViewById(R.id.btnAC);
         bCE = (Button) findViewById(R.id.btnCE);
 
+        bMas = (Button) findViewById(R.id.btnPlus);
+        bMenos = (Button) findViewById(R.id.btnMinus);
+        bPor = (Button) findViewById(R.id.btnMulp);
+        bDiv = (Button) findViewById(R.id.btnDiv);
+        bIgu = (Button) findViewById(R.id.btnIgual);
 
+        b1.setOnClickListener(this);
+        b2.setOnClickListener(this);
+        b3.setOnClickListener(this);
+        b4.setOnClickListener(this);
+        b5.setOnClickListener(this);
+        b6.setOnClickListener(this);
+        b7.setOnClickListener(this);
+        b8.setOnClickListener(this);
+        b9.setOnClickListener(this);
+        b0.setOnClickListener(this);
+
+        bAC.setOnClickListener(this);
+        bCE.setOnClickListener(this);
+
+        bMas.setOnClickListener(this);
+        bMenos.setOnClickListener(this);
+        bPor.setOnClickListener(this);
+        bDiv.setOnClickListener(this);
         bIgu.setOnClickListener(this);
 
         EditText texto = (EditText) findViewById(R.id.editText);
